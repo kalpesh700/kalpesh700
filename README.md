@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpesh700&label=Profile%20views&color=0e75b6&style=flat" alt="kalpesh700" /> </p>
 
-- 🔭 I’m currently working on **book store**
-
-- 🌱 I’m currently learning **Node js**
-
 - 💬 Ask me about **DSA AND MEARN**
 
 - 📫 How to reach me **kalpeshkoliwork@gmail.com**
