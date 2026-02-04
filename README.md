@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **DSA AND MEARN**
 
-- 📫 How to reach me **kalpeshkoliwork@gmail.com**
+- 📫 How to reach me **kalpeshkoli.skn.comp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
